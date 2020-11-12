@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "copied_from": null,
+  "description": null,
+  "enable_parameterized_testing": false,
+  "name": "ESR Test Case",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-06 02:19:53",
+  "sys_id": "215a5ef01b8490902701b913cc4bcb1b",
+  "sys_mod_count": 0,
+  "sys_name": "ESR Test Case",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_atf_test_215a5ef01b8490902701b913cc4bcb1b",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-06 02:19:53"
+}

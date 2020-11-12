@@ -1,0 +1,23 @@
+{
+  "element": "closeout_reason",
+  "help": null,
+  "hint": null,
+  "label": "Closeout Reason",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "plural": "Closeout Reasons",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-15 18:31:02",
+  "sys_id": "2a0f88c01b10d4102701b913cc4bcb4e",
+  "sys_mod_count": 0,
+  "sys_name": "Closeout Reason",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_ticket_closeout_reason_en",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-15 18:31:02",
+  "url": null,
+  "url_target": null
+}

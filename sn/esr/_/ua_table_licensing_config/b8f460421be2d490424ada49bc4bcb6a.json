@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_g_nci_esr_ticket",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 17:10:40",
+  "sys_id": "b8f460421be2d490424ada49bc4bcb6a",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_esr_ticket",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "ua_table_licensing_config_b8f460421be2d490424ada49bc4bcb6a",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-01 17:10:40"
+}

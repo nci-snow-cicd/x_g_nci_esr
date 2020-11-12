@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "esr_type",
+  "hint": null,
+  "inactive": false,
+  "label": "Internal Project",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "sequence": 0,
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-10 14:58:07",
+  "sys_id": "9b5e6d961b08d8902701b913cc4bcb90",
+  "sys_mod_count": 0,
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-10 14:58:07",
+  "u_dependent_value_2": null,
+  "value": 1
+}

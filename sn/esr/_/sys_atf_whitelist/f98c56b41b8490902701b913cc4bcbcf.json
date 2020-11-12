@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "description": "This client error occurred on the page in Chrome 80.0.3987.162",
+  "error_message": "Uncaught ReferenceError: angular is not defined",
+  "report_level": "ignored",
+  "sys_class_name": "sys_atf_whitelist",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-06 02:28:55",
+  "sys_id": "f98c56b41b8490902701b913cc4bcbcf",
+  "sys_mod_count": 1,
+  "sys_name": "Uncaught ReferenceError: angular is not defined",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_atf_whitelist_f98c56b41b8490902701b913cc4bcbcf",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-06 02:29:00",
+  "test": "215a5ef01b8490902701b913cc4bcb1b"
+}
