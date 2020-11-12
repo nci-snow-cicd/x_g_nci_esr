@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "ESR Implementation - Journal Fields",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\esr\\Fix Script\\active_true\\ESR Implementation - Journal Fields.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "lawlorap@nih.gov",
+  "sys_created_on": "2020-08-15 19:03:45",
+  "sys_id": "b0f460df1baad8106daea681f54bcba0",
+  "sys_mod_count": 0,
+  "sys_name": "ESR Implementation - Journal Fields",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_script_fix_b0f460df1baad8106daea681f54bcba0",
+  "sys_updated_by": "lawlorap@nih.gov",
+  "sys_updated_on": "2020-08-15 19:03:45",
+  "unloadable": false
+}

@@ -1,0 +1,23 @@
+{
+  "element": "legacy_number",
+  "help": null,
+  "hint": null,
+  "label": "Legacy Number",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "plural": "Legacy Numbers",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "lawlorap@nih.gov",
+  "sys_created_on": "2020-08-13 11:59:06",
+  "sys_id": "ab14fc661beed4106daea681f54bcbea",
+  "sys_mod_count": 0,
+  "sys_name": "Legacy Number",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_ticket_legacy_number_en",
+  "sys_updated_by": "lawlorap@nih.gov",
+  "sys_updated_on": "2020-08-13 11:59:06",
+  "url": null,
+  "url_target": null
+}

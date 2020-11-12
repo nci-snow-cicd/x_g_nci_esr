@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "ESR Q Branch - Copy Attachments",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\esr\\Fix Script\\active_true\\ESR Q Branch - Copy Attachments.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "lawlorap@nih.gov",
+  "sys_created_on": "2020-08-13 12:39:46",
+  "sys_id": "7c5d34261b2218106daea681f54bcb01",
+  "sys_mod_count": 0,
+  "sys_name": "ESR Q Branch - Copy Attachments",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_script_fix_7c5d34261b2218106daea681f54bcb01",
+  "sys_updated_by": "lawlorap@nih.gov",
+  "sys_updated_on": "2020-08-13 12:39:46",
+  "unloadable": false
+}

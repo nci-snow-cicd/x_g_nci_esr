@@ -1,0 +1,20 @@
+{
+  "operation": "execute",
+  "source_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "status": "allowed",
+  "sys_class_name": "sys_scope_privilege",
+  "sys_created_by": "lawlorap@nih.gov",
+  "sys_created_on": "2020-08-17 21:54:41",
+  "sys_id": "cbc227fb1b26d010c05585dae54bcb7f",
+  "sys_mod_count": 0,
+  "sys_name": "GlideRecord.setWorkflow",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_scope_privilege_cbc227fb1b26d010c05585dae54bcb7f",
+  "sys_updated_by": "lawlorap@nih.gov",
+  "sys_updated_on": "2020-08-17 21:54:41",
+  "target_name": "GlideRecord.setWorkflow",
+  "target_scope": "global",
+  "target_type": "scriptable"
+}
