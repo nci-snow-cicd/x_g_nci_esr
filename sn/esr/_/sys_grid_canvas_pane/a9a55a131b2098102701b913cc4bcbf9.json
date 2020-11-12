@@ -1,0 +1,20 @@
+{
+  "grid_canvas": "e55596131b2098102701b913cc4bcb85",
+  "height": 10,
+  "portal_widget": "a9a55a131b2098102701b913cc4bcbf6",
+  "posx": 0,
+  "posy": 20,
+  "sys_class_name": "sys_grid_canvas_pane",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-08 16:55:05",
+  "sys_id": "a9a55a131b2098102701b913cc4bcbf9",
+  "sys_mod_count": 34,
+  "sys_name": "e55596131b2098102701b913cc4bcb85",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_grid_canvas_pane_a9a55a131b2098102701b913cc4bcbf9",
+  "sys_updated_by": "yarraguntlas2@nih.gov",
+  "sys_updated_on": "2020-09-15 20:56:24",
+  "width": 4
+}
