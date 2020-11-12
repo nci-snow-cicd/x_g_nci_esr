@@ -1,0 +1,23 @@
+{
+  "element": "comments",
+  "help": null,
+  "hint": null,
+  "label": "Notes",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "plural": "Notes",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-05-02 12:03:38",
+  "sys_id": "756916dd1b2410102701b913cc4bcb0e",
+  "sys_mod_count": 0,
+  "sys_name": "Notes",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_ticket_comments_en",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-05-02 12:03:38",
+  "url": null,
+  "url_target": null
+}

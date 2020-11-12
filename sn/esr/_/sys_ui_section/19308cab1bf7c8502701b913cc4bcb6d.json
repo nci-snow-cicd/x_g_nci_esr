@@ -1,0 +1,21 @@
+{
+  "caption": "Roles & Assignments",
+  "header": false,
+  "name": "x_g_nci_esr_ticket",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 17:53:33",
+  "sys_id": "19308cab1bf7c8502701b913cc4bcb6d",
+  "sys_mod_count": 0,
+  "sys_name": "Roles & Assignments",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_ui_section_19308cab1bf7c8502701b913cc4bcb6d",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-01 17:53:33",
+  "title": false,
+  "view": "Default view",
+  "view_name": null
+}

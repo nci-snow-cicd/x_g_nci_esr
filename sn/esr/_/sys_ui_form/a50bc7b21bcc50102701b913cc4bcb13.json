@@ -1,0 +1,18 @@
+{
+  "name": "x_g_nci_esr_project",
+  "roles": null,
+  "sys_class_name": "sys_ui_form",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-12 10:59:56",
+  "sys_id": "a50bc7b21bcc50102701b913cc4bcb13",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_esr_project",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_ui_form_sections_a50bc7b21bcc50102701b913cc4bcb13",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-12 10:59:56",
+  "view": "Default view",
+  "view_name": null
+}

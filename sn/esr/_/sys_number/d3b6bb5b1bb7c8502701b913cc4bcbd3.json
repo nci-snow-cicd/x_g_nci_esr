@@ -1,0 +1,18 @@
+{
+  "category": "x_g_nci_esr_ticket",
+  "maximum_digits": 7,
+  "number": 1000,
+  "prefix": "ESR-Q-",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 17:12:10",
+  "sys_id": "d3b6bb5b1bb7c8502701b913cc4bcbd3",
+  "sys_mod_count": 2,
+  "sys_name": "ESR-Q-",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_number_d3b6bb5b1bb7c8502701b913cc4bcbd3",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-27 20:49:42"
+}

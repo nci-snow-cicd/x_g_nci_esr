@@ -1,0 +1,14 @@
+{
+  "sys_class_name": "sys_ui_action_role",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-02 13:43:42",
+  "sys_id": "346058bf1b7b0c502701b913cc4bcb85",
+  "sys_mod_count": 0,
+  "sys_name": "Analysis Complete.x_g_nci_esr.user",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_ui_action_role_346058bf1b7b0c502701b913cc4bcb85",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-02 13:43:42"
+}

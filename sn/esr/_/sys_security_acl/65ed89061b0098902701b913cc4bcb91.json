@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Allow create for all fields in x_g_nci_esr_ticket, for users with roles (x_g_nci_esr.user, x_g_nci_esr.app_admin).",
+  "name": "x_g_nci_esr_ticket.*",
+  "operation": "create",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-09 17:58:33",
+  "sys_id": "65ed89061b0098902701b913cc4bcb91",
+  "sys_mod_count": 1,
+  "sys_name": "x_g_nci_esr_ticket.*",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_security_acl_65ed89061b0098902701b913cc4bcb91",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-09 17:59:10",
+  "type": "record"
+}

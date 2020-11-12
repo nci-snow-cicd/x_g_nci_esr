@@ -1,0 +1,22 @@
+{
+  "calculated_name": "Q-Branch Ticket - Default view",
+  "filter": null,
+  "name": "x_g_nci_esr_ticket",
+  "order_by": null,
+  "position": null,
+  "related_list": null,
+  "sys_class_name": "sys_ui_related_list",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-12 10:59:49",
+  "sys_id": "33fa83321bcc50102701b913cc4bcb6d",
+  "sys_mod_count": 0,
+  "sys_name": "Ticket - Default view",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_ui_related_x_g_nci_esr_ticket_null",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-12 10:59:49",
+  "view": "Default view",
+  "view_name": null
+}

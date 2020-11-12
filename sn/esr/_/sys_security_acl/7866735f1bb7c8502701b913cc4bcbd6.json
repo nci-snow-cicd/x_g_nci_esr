@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_g_nci_esr_ticket",
+  "name": "x_g_nci_esr_ticket",
+  "operation": "create",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 17:10:38",
+  "sys_id": "7866735f1bb7c8502701b913cc4bcbd6",
+  "sys_mod_count": 2,
+  "sys_name": "x_g_nci_esr_ticket",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_security_acl_7866735f1bb7c8502701b913cc4bcbd6",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-08 16:47:39",
+  "type": "record"
+}

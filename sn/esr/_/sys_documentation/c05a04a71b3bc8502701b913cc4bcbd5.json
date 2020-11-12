@@ -1,0 +1,23 @@
+{
+  "element": "federal_lead",
+  "help": null,
+  "hint": null,
+  "label": "Federal Lead",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "plural": "Federal Leads",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 18:37:42",
+  "sys_id": "c05a04a71b3bc8502701b913cc4bcbd5",
+  "sys_mod_count": 0,
+  "sys_name": "Federal Lead",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_ticket_federal_lead_en",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-01 18:37:42",
+  "url": null,
+  "url_target": null
+}

@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "conditions": "phase=4^EQ",
+  "description": null,
+  "global": true,
+  "inherit": false,
+  "isolate_script": true,
+  "model_id": null,
+  "model_table": null,
+  "on_load": true,
+  "order": 100,
+  "reverse_if_false": true,
+  "run_scripts": true,
+  "script_false": {
+    "____see": "sn\\esr\\UI Policy\\x_g_nci_esr_project\\active_true\\Making Parent Ticket Readonly\\script_false.js"
+  },
+  "script_true": {
+    "____see": "sn\\esr\\UI Policy\\x_g_nci_esr_project\\active_true\\Making Parent Ticket Readonly\\script_true.js"
+  },
+  "set_values": null,
+  "short_description": "Making Parent Ticket Readonly",
+  "sys_class_name": "sys_ui_policy",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-15 20:12:28",
+  "sys_id": "6b2620c01b90d4102701b913cc4bcbf2",
+  "sys_mod_count": 3,
+  "sys_name": "Making Parent Ticket Readonly",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_ui_policy_6b2620c01b90d4102701b913cc4bcbf2",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-16 01:37:00",
+  "table": "x_g_nci_esr_project",
+  "ui_type": 0,
+  "view": null
+}
