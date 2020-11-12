@@ -1,0 +1,19 @@
+{
+  "dashboard": "647a71f31b14d8102701b913cc4bcb41",
+  "home": false,
+  "homepage": null,
+  "order": 4,
+  "sys_class_name": "pa_m2m_dashboard_tabs",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-08 16:53:51",
+  "sys_id": "2b55d6131b2098102701b913cc4bcb2c",
+  "sys_mod_count": 0,
+  "sys_name": "647a71f31b14d8102701b913cc4bcb41",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "pa_m2m_dashboard_tabs_2b55d6131b2098102701b913cc4bcb2c",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-05-08 16:53:51",
+  "tab": "af55d6131b2098102701b913cc4bcb2a"
+}

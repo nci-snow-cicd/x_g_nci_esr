@@ -1,0 +1,14 @@
+{
+  "document": "wf_activity",
+  "document_key": "738f87e71b7d5c506daea681f54bcbbb",
+  "order": 1000,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-10 19:05:03",
+  "sys_id": "7b8f87e71b7d5c506daea681f54bcbbe",
+  "sys_mod_count": 0,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-10 19:05:03",
+  "value": "Values",
+  "variable": "c35dfee20a0a0ba96248a709f3a40869"
+}

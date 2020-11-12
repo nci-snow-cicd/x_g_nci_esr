@@ -1,0 +1,17 @@
+{
+  "group_id": null,
+  "report_id": "29c156db1bec58102701b913cc4bcbca",
+  "sys_class_name": "sys_report_users_groups",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-08 16:38:09",
+  "sys_id": "adc156db1bec58102701b913cc4bcbca",
+  "sys_mod_count": 0,
+  "sys_name": "29c156db1bec58102701b913cc4bcbca",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_report_users_groups_adc156db1bec58102701b913cc4bcbca",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-05-08 16:38:09",
+  "user_id": "c37802ccdb2f84d0f4353e5f7c9619b1"
+}

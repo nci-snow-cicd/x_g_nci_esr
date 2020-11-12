@@ -1,0 +1,23 @@
+{
+  "element": "on_hold_reason",
+  "help": null,
+  "hint": null,
+  "label": "On Hold Reason",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "plural": "On Hold Reasons",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-08-05 15:22:16",
+  "sys_id": "f9e51c881b2e98506daea681f54bcbec",
+  "sys_mod_count": 0,
+  "sys_name": "On Hold Reason",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_ticket_on_hold_reason_en",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-08-05 15:22:16",
+  "url": null,
+  "url_target": null
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "planned_start_date",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "ESR Project Start Date Validation",
+  "order": null,
+  "script": {
+    "____see": "sn\\esr\\Client Script\\x_g_nci_esr_project\\active_true\\ESR Project Start Date Validation.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-06-24 18:51:30",
+  "sys_id": "87b270ee1ba1d8102701b913cc4bcbcc",
+  "sys_mod_count": 0,
+  "sys_name": "ESR Project Start Date Validation",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_script_client_87b270ee1ba1d8102701b913cc4bcbcc",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-06-24 18:51:30",
+  "table": "x_g_nci_esr_project",
+  "type": "onChange",
+  "ui_type": 10,
+  "view": null
+}

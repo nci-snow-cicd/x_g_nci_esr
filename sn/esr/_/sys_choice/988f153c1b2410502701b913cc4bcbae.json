@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Closed Incomplete",
+  "language": "en",
+  "name": "x_g_nci_esr_project",
+  "sequence": 8,
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-30 18:33:43",
+  "sys_id": "988f153c1b2410502701b913cc4bcbae",
+  "sys_mod_count": 1,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-06-23 19:12:29",
+  "u_dependent_value_2": null,
+  "value": 16
+}

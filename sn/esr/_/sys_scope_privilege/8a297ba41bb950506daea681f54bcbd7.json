@@ -1,0 +1,20 @@
+{
+  "operation": "execute",
+  "source_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "status": "allowed",
+  "sys_class_name": "sys_scope_privilege",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-01 14:25:01",
+  "sys_id": "8a297ba41bb950506daea681f54bcbd7",
+  "sys_mod_count": 0,
+  "sys_name": "GlideRecord.newRecord",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_scope_privilege_8a297ba41bb950506daea681f54bcbd7",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-01 14:25:01",
+  "target_name": "GlideRecord.newRecord",
+  "target_scope": "global",
+  "target_type": "scriptable"
+}

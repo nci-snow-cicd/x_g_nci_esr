@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "impact",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "Implementation Impact Real Time Prio",
+  "order": null,
+  "script": {
+    "____see": "sn\\esr\\Client Script\\x_g_nci_esr_project\\active_true\\Implementation Impact Real Time Prio.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-10 17:03:02",
+  "sys_id": "076376e71bf95c506daea681f54bcb38",
+  "sys_mod_count": 0,
+  "sys_name": "Implementation Impact Real Time Prio",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_script_client_076376e71bf95c506daea681f54bcb38",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-10 17:03:02",
+  "table": "x_g_nci_esr_project",
+  "type": "onChange",
+  "ui_type": 10,
+  "view": null
+}

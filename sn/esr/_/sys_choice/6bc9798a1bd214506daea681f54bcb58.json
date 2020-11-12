@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "1 - Critical",
+  "language": "en",
+  "name": "x_g_nci_esr_project",
+  "sequence": 0,
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-30 17:30:53",
+  "sys_id": "6bc9798a1bd214506daea681f54bcb58",
+  "sys_mod_count": 0,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-30 17:30:53",
+  "u_dependent_value_2": null,
+  "value": 1
+}

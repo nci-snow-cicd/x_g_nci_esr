@@ -1,0 +1,23 @@
+{
+  "element": "u_created",
+  "help": null,
+  "hint": null,
+  "label": "Created",
+  "language": "en",
+  "name": "x_g_nci_esr_esr_data_migration",
+  "plural": "Created",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-08-05 16:49:07",
+  "sys_id": "06c924401bae98506daea681f54bcbb6",
+  "sys_mod_count": 0,
+  "sys_name": "Created",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_esr_data_migration_u_created_en",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-08-05 16:49:07",
+  "url": null,
+  "url_target": null
+}

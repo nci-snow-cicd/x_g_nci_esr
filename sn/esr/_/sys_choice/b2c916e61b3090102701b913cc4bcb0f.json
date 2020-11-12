@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "phase",
+  "hint": null,
+  "inactive": false,
+  "label": "Not Yet Started",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "sequence": 5,
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-18 19:33:26",
+  "sys_id": "b2c916e61b3090102701b913cc4bcb0f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-05-18 19:33:26",
+  "u_dependent_value_2": null,
+  "value": 5
+}

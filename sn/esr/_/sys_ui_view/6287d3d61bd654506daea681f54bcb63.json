@@ -1,0 +1,20 @@
+{
+  "group": null,
+  "hidden": false,
+  "name": "my_esr_tickets",
+  "roles": "x_g_nci_esr.user,x_g_nci_esr.app_admin",
+  "sys_class_name": "sys_ui_view",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-31 19:00:26",
+  "sys_id": "6287d3d61bd654506daea681f54bcb63",
+  "sys_mod_count": 0,
+  "sys_name": "My ESR Tickets",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_ui_view_6287d3d61bd654506daea681f54bcb63",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-31 19:00:26",
+  "title": "My ESR Tickets",
+  "user": null
+}

@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "x_g_nci_esr_esr_data_migration",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-01 14:27:40",
+  "sys_id": "f0c937e41bb950506daea681f54bcbc5",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_esr_esr_data_migration",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_ui_section_f0c937e41bb950506daea681f54bcbc5",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-01 14:27:40",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}

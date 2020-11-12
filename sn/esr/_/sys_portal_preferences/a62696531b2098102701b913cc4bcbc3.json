@@ -1,0 +1,11 @@
+{
+  "name": "renderer",
+  "portal_section": "6e2696531b2098102701b913cc4bcbc2",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-08 16:57:20",
+  "sys_id": "a62696531b2098102701b913cc4bcbc3",
+  "sys_mod_count": 0,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-05-08 16:57:20",
+  "value": "com.glide.ui.portal.RenderReport"
+}
