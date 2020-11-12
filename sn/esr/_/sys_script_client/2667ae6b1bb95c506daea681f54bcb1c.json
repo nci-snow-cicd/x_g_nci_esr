@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "impact",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "Q-Branch Impact Real Time Priority",
+  "order": null,
+  "script": {
+    "____see": "sn\\esr\\Client Script\\x_g_nci_esr_ticket\\active_true\\Q-Branch Impact Real Time Priority.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-10 16:13:09",
+  "sys_id": "2667ae6b1bb95c506daea681f54bcb1c",
+  "sys_mod_count": 1,
+  "sys_name": "Q-Branch Impact Real Time Priority",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_script_client_2667ae6b1bb95c506daea681f54bcb1c",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-10 16:59:05",
+  "table": "x_g_nci_esr_ticket",
+  "type": "onChange",
+  "ui_type": 10,
+  "view": null
+}

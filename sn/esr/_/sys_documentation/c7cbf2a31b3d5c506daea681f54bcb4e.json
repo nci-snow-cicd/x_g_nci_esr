@@ -1,0 +1,23 @@
+{
+  "element": "project_activity_name",
+  "help": null,
+  "hint": null,
+  "label": "New Project / Activity Name",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "plural": "New Project / Activity Names",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-10 17:38:43",
+  "sys_id": "c7cbf2a31b3d5c506daea681f54bcb4e",
+  "sys_mod_count": 1,
+  "sys_name": "New Project / Activity Name",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_ticket_project_activity_name_en",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-10 17:51:31",
+  "url": null,
+  "url_target": null
+}

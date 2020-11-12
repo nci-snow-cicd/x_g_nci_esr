@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "IT Asset Management",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "sequence": 5,
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-08 15:30:03",
+  "sys_id": "ba2b880b1bf998506daea681f54bcbae",
+  "sys_mod_count": 1,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-30 19:32:06",
+  "u_dependent_value_2": null,
+  "value": 12
+}

@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Waiting for Intake Approval",
+  "language": "en",
+  "name": "x_g_nci_esr_project",
+  "sequence": 4,
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-12 13:28:53",
+  "sys_id": "2f1de37e1b4090102701b913cc4bcb87",
+  "sys_mod_count": 1,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-22 15:53:45",
+  "u_dependent_value_2": null,
+  "value": 4
+}

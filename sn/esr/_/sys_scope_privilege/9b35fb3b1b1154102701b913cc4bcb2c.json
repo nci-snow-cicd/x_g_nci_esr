@@ -1,0 +1,20 @@
+{
+  "operation": "read",
+  "source_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "status": "allowed",
+  "sys_class_name": "sys_scope_privilege",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-06-16 19:56:46",
+  "sys_id": "9b35fb3b1b1154102701b913cc4bcb2c",
+  "sys_mod_count": 0,
+  "sys_name": "u_engineering_project_support",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_scope_privilege_9b35fb3b1b1154102701b913cc4bcb2c",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-06-16 19:56:46",
+  "target_name": "u_engineering_project_support",
+  "target_scope": "global",
+  "target_type": "sys_db_object"
+}

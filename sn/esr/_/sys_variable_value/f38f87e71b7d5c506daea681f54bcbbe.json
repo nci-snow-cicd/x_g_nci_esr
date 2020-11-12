@@ -1,0 +1,14 @@
+{
+  "document": "wf_activity",
+  "document_key": "738f87e71b7d5c506daea681f54bcbbb",
+  "order": 10,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-10 19:05:03",
+  "sys_id": "f38f87e71b7d5c506daea681f54bcbbe",
+  "sys_mod_count": 0,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-10 19:05:03",
+  "value": "x_g_nci_esr_project",
+  "variable": "c35ddb660a0a0ba96248a7095d22925c"
+}

@@ -1,0 +1,14 @@
+{
+  "sys_class_name": "sys_ui_action_role",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-06-23 20:10:17",
+  "sys_id": "95b27fce1b6958102701b913cc4bcb86",
+  "sys_mod_count": 0,
+  "sys_name": "Close Project.x_g_nci_esr.app_admin",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_ui_action_role_95b27fce1b6958102701b913cc4bcb86",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-06-23 20:10:17"
+}

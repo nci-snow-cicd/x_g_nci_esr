@@ -1,0 +1,21 @@
+{
+  "activity": "738f432b1b7d5c506daea681f54bcbc8",
+  "condition": "current.closeout_reason == 2",
+  "condition_default": null,
+  "condition_type": "standard",
+  "else_flag": false,
+  "error": false,
+  "event": false,
+  "event_name": null,
+  "is_positive": false,
+  "name": "Close_Out is 2",
+  "order": 0,
+  "short_description": "When close_out reason is 2",
+  "skip_during_generate": false,
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-10 19:05:03",
+  "sys_id": "f78f432b1b7d5c506daea681f54bcbc8",
+  "sys_mod_count": 0,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-10 19:05:03"
+}

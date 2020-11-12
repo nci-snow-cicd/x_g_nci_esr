@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Hosting",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "sequence": 4,
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-30 19:32:06",
+  "sys_id": "0f855ac61b5614506daea681f54bcb37",
+  "sys_mod_count": 0,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-30 19:32:06",
+  "u_dependent_value_2": null,
+  "value": 14
+}

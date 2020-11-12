@@ -1,0 +1,21 @@
+{
+  "activity": "738f87e71b7d5c506daea681f54bcbbb",
+  "condition": true,
+  "condition_default": null,
+  "condition_type": "standard",
+  "else_flag": false,
+  "error": false,
+  "event": false,
+  "event_name": null,
+  "is_positive": true,
+  "name": "Always",
+  "order": 0,
+  "short_description": null,
+  "skip_during_generate": false,
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-10 19:05:03",
+  "sys_id": "b38f432b1b7d5c506daea681f54bcbc7",
+  "sys_mod_count": 0,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-10 19:05:03"
+}

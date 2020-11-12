@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_g_nci_esr_esr_data_migration",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-11 20:53:42",
+  "sys_id": "f8f460421be2d490424ada49bc4bcb1a",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_esr_esr_data_migration",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "ua_table_licensing_config_f8f460421be2d490424ada49bc4bcb1a",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-05-11 20:53:42"
+}
