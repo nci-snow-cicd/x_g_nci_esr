@@ -1,0 +1,23 @@
+{
+  "dashboard": "647a71f31b14d8102701b913cc4bcb41",
+  "delete": false,
+  "group": null,
+  "identity": "x_g_nci_esr.user",
+  "read": true,
+  "role": "2066735f1bb7c8502701b913cc4bcbb8",
+  "sys_class_name": "pa_dashboards_permissions",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-05-03 16:07:55",
+  "sys_id": "caea54311b6c50102701b913cc4bcb8a",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_esr.user",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "pa_dashboards_permissions_caea54311b6c50102701b913cc4bcb8a",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-05-03 16:07:55",
+  "type": 1,
+  "user": null,
+  "write": false
+}

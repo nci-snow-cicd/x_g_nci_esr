@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": "stateNOT IN9,10,16,14^phase=0^NQstateNOT IN9,10,16,14^phase=1^EQ",
+  "description": "Allow write for urgency in x_g_nci_esr_ticket, for users with roles (x_g_nci_esr.user, x_g_nci_esr.app_admin), and if the ACL condition (stateNOT IN9,10,16,14^phase=0^NQstateNOT IN9,10,16,14^phase=1^EQ) evaluates to true.",
+  "name": "x_g_nci_esr_ticket.urgency",
+  "operation": "write",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-05-02 12:33:10",
+  "sys_id": "8f2f56551b6410102701b913cc4bcb5a",
+  "sys_mod_count": 3,
+  "sys_name": "x_g_nci_esr_ticket.urgency",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_security_acl_8f2f56551b6410102701b913cc4bcb5a",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-07-11 12:26:25",
+  "type": "record"
+}

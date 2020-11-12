@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-07-13 21:44:59",
+  "sys_id": "c9b097e81b0a14902701b913cc4bcb5f",
+  "sys_mod_count": 0,
+  "sys_name": ".x_g_nci_esr.user",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_security_acl_role_c9b097e81b0a14902701b913cc4bcb5f",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-07-13 21:44:59",
+  "transaction_id": null
+}

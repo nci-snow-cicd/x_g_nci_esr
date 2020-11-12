@@ -1,0 +1,21 @@
+{
+  "access": "public",
+  "description": "Creates new esr project ticket once the esr q-branch ticket is complete.",
+  "name": "Create New ESR Project Ticket",
+  "preview": null,
+  "sys_class_name": "wf_workflow",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-11 12:25:08",
+  "sys_id": "c8f492221b8810102701b913cc4bcb57",
+  "sys_mod_count": 0,
+  "sys_name": "Create New ESR Project Ticket",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "wf_workflow_c8f492221b8810102701b913cc4bcb57",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-11 12:25:08",
+  "table": "x_g_nci_esr_ticket",
+  "template": false,
+  "vars": null
+}

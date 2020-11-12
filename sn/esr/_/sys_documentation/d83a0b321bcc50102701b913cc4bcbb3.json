@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "Implementation Ticket",
+  "language": "en",
+  "name": "x_g_nci_esr_project",
+  "plural": "Implementation Tickets",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-12 10:56:18",
+  "sys_id": "d83a0b321bcc50102701b913cc4bcbb3",
+  "sys_mod_count": 2,
+  "sys_name": "Implementation Ticket",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_project__en",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-07-11 13:08:37",
+  "url": null,
+  "url_target": null
+}

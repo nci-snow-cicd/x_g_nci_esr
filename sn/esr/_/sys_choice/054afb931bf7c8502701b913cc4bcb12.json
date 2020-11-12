@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Work In Progress",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "sequence": 5,
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 17:27:35",
+  "sys_id": "054afb931bf7c8502701b913cc4bcb12",
+  "sys_mod_count": 1,
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-10 15:14:45",
+  "u_dependent_value_2": null,
+  "value": 7
+}

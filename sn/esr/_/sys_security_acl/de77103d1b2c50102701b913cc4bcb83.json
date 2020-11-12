@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": "phase=0^stateIN-5,1,2,3,4,7,8^NQphase=1^stateIN1,2,4,7,8,15,-1,11,12,13,17,18^EQ",
+  "description": "Allow write for short_description in x_g_nci_esr_ticket, for users with roles (x_g_nci_esr.app_admin, x_g_nci_esr.user), and if the ACL condition (phase=0^stateIN-5,1,2,3,4,7,8^NQphase=1^stateIN1,2,4,7,8,15,-1,11,12,13,17,18^EQ) evaluates to true.",
+  "name": "x_g_nci_esr_ticket.short_description",
+  "operation": "write",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-05-03 15:55:23",
+  "sys_id": "de77103d1b2c50102701b913cc4bcb83",
+  "sys_mod_count": 1,
+  "sys_name": "x_g_nci_esr_ticket.short_description",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_security_acl_de77103d1b2c50102701b913cc4bcb83",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-07-10 15:05:24",
+  "type": "record"
+}

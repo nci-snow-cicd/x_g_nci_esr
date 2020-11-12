@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": "stateIN9,10^EQ",
+  "description": "Make Fields Read Only on State = Complete | Incomplete",
+  "name": "x_g_nci_esr_ticket.*",
+  "operation": "write",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-29 18:32:36",
+  "sys_id": "64e450a81ba89c102701b913cc4bcb59",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_esr_ticket.*",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_security_acl_64e450a81ba89c102701b913cc4bcb59",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-29 18:32:36",
+  "type": "record"
+}

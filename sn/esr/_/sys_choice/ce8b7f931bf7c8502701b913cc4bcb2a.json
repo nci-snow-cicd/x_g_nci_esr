@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "phase",
+  "hint": null,
+  "inactive": false,
+  "label": "Phase 2: Planning",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "sequence": 3,
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 17:33:20",
+  "sys_id": "ce8b7f931bf7c8502701b913cc4bcb2a",
+  "sys_mod_count": 3,
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-01 17:37:22",
+  "u_dependent_value_2": null,
+  "value": 2
+}

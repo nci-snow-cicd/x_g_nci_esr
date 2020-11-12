@@ -1,0 +1,23 @@
+{
+  "element": "phase",
+  "help": null,
+  "hint": null,
+  "label": "Phase",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "plural": "Phases",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 17:17:55",
+  "sys_id": "5f087b9f1bb7c8502701b913cc4bcb4b",
+  "sys_mod_count": 0,
+  "sys_name": "Phase",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_ticket_phase_en",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-01 17:17:55",
+  "url": null,
+  "url_target": null
+}

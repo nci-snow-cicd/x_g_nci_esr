@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "hint": null,
+  "name": "ESR Ticket",
+  "order": null,
+  "roles": "x_g_nci_esr.user",
+  "sys_class_name": "sys_ui_application",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 17:10:38",
+  "sys_id": "bc66735f1bb7c8502701b913cc4bcbc5",
+  "sys_mod_count": 0,
+  "sys_name": "ESR Ticket",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_ui_application_bc66735f1bb7c8502701b913cc4bcbc5",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-01 17:10:38"
+}

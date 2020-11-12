@@ -1,0 +1,23 @@
+{
+  "element": "short_description",
+  "help": null,
+  "hint": null,
+  "label": "Project / Activity Name",
+  "language": "en",
+  "name": "x_g_nci_esr_project",
+  "plural": "Project / Activity Names",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-12 11:10:54",
+  "sys_id": "4e8dc7fa1bcc50102701b913cc4bcb15",
+  "sys_mod_count": 0,
+  "sys_name": "Project / Activity Name",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_project_short_description_en",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-12 11:10:54",
+  "url": null,
+  "url_target": null
+}

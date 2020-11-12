@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "phase",
+  "hint": null,
+  "inactive": true,
+  "label": "Phase 3: Execution",
+  "language": "en",
+  "name": "x_g_nci_esr_project",
+  "sequence": 0,
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-15 20:29:53",
+  "sys_id": "6f3a28081b90d4102701b913cc4bcb4e",
+  "sys_mod_count": 1,
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-05-01 15:53:34",
+  "u_dependent_value_2": null,
+  "value": 3
+}

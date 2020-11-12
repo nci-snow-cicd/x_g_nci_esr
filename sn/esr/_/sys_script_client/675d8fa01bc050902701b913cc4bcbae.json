@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "action_status",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "Move State to Submit",
+  "order": null,
+  "script": {
+    "____see": "sn\\esr\\Client Script\\x_g_nci_esr_ticket\\active_true\\Move State to Submit.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-05 11:29:12",
+  "sys_id": "675d8fa01bc050902701b913cc4bcbae",
+  "sys_mod_count": 4,
+  "sys_name": "Move State to Submit",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_script_client_675d8fa01bc050902701b913cc4bcbae",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-12 11:02:11",
+  "table": "x_g_nci_esr_ticket",
+  "type": "onSubmit",
+  "ui_type": 10,
+  "view": null
+}

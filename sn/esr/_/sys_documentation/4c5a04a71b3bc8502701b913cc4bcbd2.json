@@ -1,0 +1,23 @@
+{
+  "element": "project_manager",
+  "help": null,
+  "hint": null,
+  "label": "Project Manager / Responsible Person",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "plural": "Project Manager / Responsible Persons",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 18:37:42",
+  "sys_id": "4c5a04a71b3bc8502701b913cc4bcbd2",
+  "sys_mod_count": 1,
+  "sys_name": "Project Manager / Responsible Person",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_ticket_project_manager_en",
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-09 18:51:00",
+  "url": null,
+  "url_target": null
+}

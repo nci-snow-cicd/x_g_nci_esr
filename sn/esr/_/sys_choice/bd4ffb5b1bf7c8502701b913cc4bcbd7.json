@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Desktop Platform Management",
+  "language": "en",
+  "name": "x_g_nci_esr_ticket",
+  "sequence": 2,
+  "sys_created_by": "saxenap2@nih.gov",
+  "sys_created_on": "2020-04-01 17:49:29",
+  "sys_id": "bd4ffb5b1bf7c8502701b913cc4bcbd7",
+  "sys_mod_count": 0,
+  "sys_updated_by": "saxenap2@nih.gov",
+  "sys_updated_on": "2020-04-01 17:49:29",
+  "u_dependent_value_2": null,
+  "value": 3
+}
