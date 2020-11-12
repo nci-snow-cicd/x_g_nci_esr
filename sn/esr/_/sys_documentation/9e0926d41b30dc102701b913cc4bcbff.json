@@ -1,0 +1,23 @@
+{
+  "element": "u_subject_matter_expert",
+  "help": null,
+  "hint": null,
+  "label": "Subject Matter Expert",
+  "language": "en",
+  "name": "x_g_nci_esr_esr_data_migration",
+  "plural": "Subject Matter Experts",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-11 20:53:42",
+  "sys_id": "9e0926d41b30dc102701b913cc4bcbff",
+  "sys_mod_count": 0,
+  "sys_name": "Subject Matter Expert",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_esr_data_migration_u_subject_matter_expert_en",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-05-11 20:53:42",
+  "url": null,
+  "url_target": null
+}

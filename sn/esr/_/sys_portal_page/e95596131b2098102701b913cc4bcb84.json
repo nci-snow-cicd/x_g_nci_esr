@@ -1,0 +1,23 @@
+{
+  "layout": null,
+  "order": null,
+  "read_roles": "snc_internal",
+  "related_items_node": null,
+  "roles": null,
+  "selectable": false,
+  "sys_class_name": "sys_portal_page",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-08 16:53:43",
+  "sys_id": "e95596131b2098102701b913cc4bcb84",
+  "sys_mod_count": 1,
+  "sys_name": "PA Q-Branch Dashboard",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_portal_page_e95596131b2098102701b913cc4bcb84",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-05-08 16:54:12",
+  "title": "PA Q-Branch Dashboard",
+  "user": null,
+  "view": "pa_esr_dashboard_-_new_tab_2"
+}

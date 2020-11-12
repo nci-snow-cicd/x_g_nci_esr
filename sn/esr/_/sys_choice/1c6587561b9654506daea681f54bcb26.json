@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "5 - Lowest",
+  "language": "en",
+  "name": "x_g_nci_esr_project",
+  "sequence": 5,
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-31 17:39:35",
+  "sys_id": "1c6587561b9654506daea681f54bcb26",
+  "sys_mod_count": 0,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-31 17:39:35",
+  "u_dependent_value_2": null,
+  "value": 5
+}

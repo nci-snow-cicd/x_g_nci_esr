@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Operational Handoff",
+  "language": "en",
+  "name": "x_g_nci_esr_project",
+  "sequence": 14,
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-06-23 19:12:29",
+  "sys_id": "fe3e278a1b6958102701b913cc4bcbe6",
+  "sys_mod_count": 1,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-22 15:53:46",
+  "u_dependent_value_2": null,
+  "value": 17
+}

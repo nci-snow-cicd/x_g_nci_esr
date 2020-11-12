@@ -1,0 +1,23 @@
+{
+  "element": "u_priority",
+  "help": null,
+  "hint": null,
+  "label": "Priority",
+  "language": "en",
+  "name": "x_g_nci_esr_esr_data_migration",
+  "plural": "Priorities",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-11 20:53:42",
+  "sys_id": "960926d41b30dc102701b913cc4bcbfb",
+  "sys_mod_count": 0,
+  "sys_name": "Priority",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_esr_data_migration_u_priority_en",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-05-11 20:53:42",
+  "url": null,
+  "url_target": null
+}

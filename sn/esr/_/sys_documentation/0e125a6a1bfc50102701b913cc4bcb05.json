@@ -1,0 +1,23 @@
+{
+  "element": "u_comments_and_work_notes",
+  "help": null,
+  "hint": null,
+  "label": "Comments and Work notes",
+  "language": "en",
+  "name": "x_g_nci_esr_esr_data_migration",
+  "plural": "Comments and Work notes",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-05-18 18:59:48",
+  "sys_id": "0e125a6a1bfc50102701b913cc4bcb05",
+  "sys_mod_count": 0,
+  "sys_name": "Comments and Work notes",
+  "sys_package": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_policy": null,
+  "sys_scope": "f9c5731b1bb7c8502701b913cc4bcb5d",
+  "sys_update_name": "sys_documentation_x_g_nci_esr_esr_data_migration_u_comments_and_work_notes_en",
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-05-18 18:59:48",
+  "url": null,
+  "url_target": null
+}

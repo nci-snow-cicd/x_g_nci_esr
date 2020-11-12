@@ -1,0 +1,14 @@
+{
+  "document": "wf_activity",
+  "document_key": "738f87e71b7d5c506daea681f54bcbbb",
+  "order": 1710,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "scottrym@nih.gov",
+  "sys_created_on": "2020-07-10 19:05:03",
+  "sys_id": "3f8f87e71b7d5c506daea681f54bcbbe",
+  "sys_mod_count": 1,
+  "sys_updated_by": "scottrym@nih.gov",
+  "sys_updated_on": "2020-07-10 19:06:03",
+  "value": "// Set values for the task in this script.  Use the variable 'task' when setting additional values.\r\n// Note: This script is run after the task values are set using the Fields, Template or Values you have specified.\r\n//\r\n// For example:\r\ntask.short_description = current.short_description;\r\ntask.description = current.description;\r\ntask.business_justification = current.business_justification;\r\ntask.federal_lead = current.federal_lead;\r\ntask.project_manager = current.project_manager;\r\ntask.stakeholders = current.stakeholders;\r\ntask.subject_matter_expert = current.subject_matter_expert;\r\ntask.category = current.category;\r\ntask.u_requested_for = current.u_requested_for;\r\ntask.phase = 1;\r\ntask.state = 2;\r\n\r\n\r\n\r\n",
+  "variable": "989cdb20c0a800661789b3de0f40214a"
+}
